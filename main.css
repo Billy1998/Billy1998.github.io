@@ -1,0 +1,16 @@
+body{background: lightblue;
+color: black;
+font-family: arial;
+font-size: 14pt;}
+
+h1, h2, perspective: {color: black}
+
+li {border:2px solid black; color: black; display: inline-block; padding: 10px;margin: 5px;background: lightgrey}
+
+a{color: black; display: inline-black;}
+a:hover {color: navy;}
+
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 600px; float: left;"> Left </div>
+    <div style="margin-left: 620px;"> Right </div>
+</div>
